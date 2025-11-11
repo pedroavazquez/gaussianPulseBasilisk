@@ -1,0 +1,8 @@
+*.o
+*.log
+*.dat
+*.vtk
+*.deps
+*.tests
+*.s
+__pycache__/
